@@ -1,0 +1,7 @@
+ipykernel
+ipywidgets
+python-dotenv
+groq
+langchain_groq
+jupyter
+streamlit
